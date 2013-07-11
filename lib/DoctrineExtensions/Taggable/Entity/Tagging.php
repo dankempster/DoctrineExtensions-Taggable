@@ -14,7 +14,6 @@ use DoctrineExtensions\Taggable\Taggable;
 
 class Tagging
 {
-    protected $id;
     protected $tag;
 
     protected $resourceType;
